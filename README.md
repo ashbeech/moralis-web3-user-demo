@@ -28,7 +28,7 @@ REACT_APP_MORALIS_SERVER_URL=xxx
 Finally, via terminal in the project directory run:
 
 ```sh
-node start
+npm start
 
 ```
 
