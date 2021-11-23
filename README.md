@@ -42,7 +42,7 @@ node start
 
 ## Todos ✅
 
-- [ ] Compatibile with another wallet.
+- [ ] Compatibile with multiple wallets.
 - [ ] Much more TBA.
 
 ## Community BUIDLing 👨‍🔧👩‍🔧
