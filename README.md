@@ -5,7 +5,7 @@
 Aim: ReactJS demo website Save time for users and developers utilising Web3 via Moralis integration.
 
 These tutorial videos are a great introduction: [Link to Moralis YouTube Video](https://youtu.be)<br>
-Also reference the Moralis [Docs](https://docs.moralis.io/moralis-server/users/crypto-login)
+Also reference the Moralis [Docs](https://docs.moralis.io/moralis-server/users/crypto-login) on Web3 logins.
 
 ## Quick Launch 🚀
 
